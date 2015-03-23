@@ -1,0 +1,7 @@
+# BEGIN-------cut here-------CUT HERE-------BEGIN
+# SUPER MORIO Bros license passcode file.
+LicenseNo: 12345
+HostID: INTERNET=144.212.101.43
+UserName: Ichiro Suzuki
+Expire: 2020-12-31
+# END---------cut here-------CUT HERE-------END
